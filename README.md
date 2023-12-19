@@ -32,6 +32,8 @@ print(solution)
 ```
 ## OUTPUT :
 
+Program to find the solution for the given linear equations.
+
 ![Alt text](output.png)
 
 ## RESULT : 
